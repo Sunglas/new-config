@@ -1,3 +1,5 @@
+Moved to [SourceHut](https://git.sr.ht/~diego-est/bootstrap)
+
 # bootstrap-config
 Template configs to use when initializing a system.
 
